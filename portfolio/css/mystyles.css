@@ -18,8 +18,8 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #7986CB ;
-    color:floralwhite;
+    background:  #aaa ;
+    color:#fff;
 }
 
 address{
@@ -33,7 +33,7 @@ body{
 }
 
 .navbar-inverse {
-     background: #303F9F;
+     background: #730099;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
